@@ -1,0 +1,14 @@
+.play-container{
+    border: #f9f9f9;
+    padding: 20px 20px 20px 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+@media (max-width:900px) {
+    .play-container{
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    
+}
