@@ -2,4 +2,4 @@ Forged with the rare GooGle API, hammerd with oblivious React, heated with elega
 
 ### The greate Smith: Shista Chakma
 
-[Live URL]{https://shista-vidtube.netlify.app/}
+[Live URL](https://shista-vidtube.netlify.app/)
